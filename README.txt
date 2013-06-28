@@ -1,0 +1,1 @@
+This is an android webview example. Min SDK is 4.0.
